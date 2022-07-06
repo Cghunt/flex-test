@@ -79,14 +79,14 @@ body {
     border: 3px solid rgb(97, 16, 16);
     background-color: rgb(209, 134, 134);
     padding: 10px;
-    height: 50%;
+    flex: 1;
 
 }
 .right-bottom {
     border: 3px solid rgb(97, 16, 16);
     background-color: rgb(209, 134, 134);
     padding: 10px;
-    height: 50%;
+    flex: 1;
 }
 
 
